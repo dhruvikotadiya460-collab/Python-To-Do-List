@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "name": "python mini project",
+        "completed": false
+    },
+    {
+        "id": 2,
+        "name": "prepare for viva",
+        "completed": false
+    }
+]
